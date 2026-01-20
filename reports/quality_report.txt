@@ -1,0 +1,8 @@
+Rows before dedupe: 6
+Rows after dedupe: 5
+
+Missing values per column:
+id       0
+name     0
+age      2
+score    1
